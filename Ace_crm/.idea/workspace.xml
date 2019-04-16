@@ -90,8 +90,13 @@
       <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crm/tests.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="162">
               <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="7" />
+=======
+            <state relative-caret-position="135">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+>>>>>>> test2
             </state>
           </provider>
         </entry>
@@ -602,8 +607,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crm/tests.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="162">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="7" />
+=======
+        <state relative-caret-position="135">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+>>>>>>> test2
         </state>
       </provider>
     </entry>
