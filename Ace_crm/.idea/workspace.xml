@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Ace_crm$.coverage" NAME="面试题 Coverage Results" MODIFIED="1550667210753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../.." />
+    <SUITE FILE_PATH="coverage/Ace_crm$.coverage" NAME="面试题 Coverage Results" MODIFIED="1550667210753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/.." />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crm/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="351">
               <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="auth.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crm/views/auth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="324">
               <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
@@ -78,11 +78,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customer_list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="customer_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crm/templates/customer_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="63" column="62" lean-forward="true" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+            <state relative-caret-position="457">
+              <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crm/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -126,7 +135,8 @@
         <option value="$PROJECT_DIR$/crm/urls.py" />
         <option value="$PROJECT_DIR$/crm/templates/customer_list.html" />
         <option value="$PROJECT_DIR$/crm/views/customer.py" />
-        <option value="$PROJECT_DIR$/../../../面试题.py" />
+        <option value="D:/../面试题.py" />
+        <option value="$PROJECT_DIR$/crm/tests.py" />
       </list>
     </option>
   </component>
@@ -150,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,7 +238,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,12 +283,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../.." />
+      <option name="WORKING_DIRECTORY" value="D:/.." />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../面试题.py" />
+      <option name="SCRIPT_NAME" value="D:/../面试题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,17 +347,17 @@
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5136612" side_tool="true" weight="0.31560284" />
       <window_info anchor="bottom" id="Database Changes" order="2" weight="0.5833333" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4863388" weight="0.34397164" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4863388" weight="0.34397164" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.4730679" weight="0.32978722" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16471507" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" visible="true" weight="0.010148321" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -370,41 +380,15 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="43" selection-start-line="43" selection-end-line="76" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/templates/login.html" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/da3941cc-f1ec-4bb0-858a-c4d5dc2a8395/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/bootstrap-3.3.7/js/npm.js" />
-    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/crm/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/crm/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/Ace_crm/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day73/day73/day73课上所有/Ace_crm/crm/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/crm/forms.py" />
+    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/crm/views.py" />
+    <entry file="file://$PROJECT_DIR$/../day72/day72视频和笔记代码/day72/Ace_crm/Ace_crm/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../day73/day73/day73课上所有/Ace_crm/crm/urls.py" />
     <entry file="file://$PROJECT_DIR$/Ace_crm/templates/customer_list.html" />
     <entry file="file://$PROJECT_DIR$/static/js/jquery-3.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -422,13 +406,7 @@
     <entry file="das://da3941cc-f1ec-4bb0-858a-c4d5dc2a8395/schema/ace_crm/table/django_admin_log" />
     <entry file="das://da3941cc-f1ec-4bb0-858a-c4d5dc2a8395/schema/ace_crm/table/crm_campuses" />
     <entry file="das://da3941cc-f1ec-4bb0-858a-c4d5dc2a8395/schema/ace_crm/table/crm_userprofile" />
-    <entry file="file://$PROJECT_DIR$/../day73/day73/Ace_crm/crm/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="120" column="22" lean-forward="true" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../day73/day73/Ace_crm/crm/models.py" />
     <entry file="file://$PROJECT_DIR$/crm/utils/pagenation.py" />
     <entry file="file://$PROJECT_DIR$/crm/auth.py" />
     <entry file="file://$PROJECT_DIR$/crm/views.py" />
@@ -480,9 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crm/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/crm/utils/pagination.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -520,9 +495,7 @@
     <entry file="file://$PROJECT_DIR$/crm/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../day77/day77/luffy_permission/web/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../day77/day77/luffy_permission/web/models.py" />
     <entry file="file://$PROJECT_DIR$/Ace_crm/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-972">
@@ -565,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crm/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="351">
           <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
@@ -573,18 +546,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../面试题整理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-299" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../面试题.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="260" selection-start-line="260" selection-end-line="268" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/../面试题整理.py" />
+    <entry file="file://D:/../面试题.py" />
     <entry file="file://$PROJECT_DIR$/Ace_crm/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -608,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crm/views/auth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="324">
           <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
@@ -618,8 +581,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crm/templates/customer_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="63" column="62" lean-forward="true" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+        <state relative-caret-position="457">
+          <caret line="63" column="62" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
